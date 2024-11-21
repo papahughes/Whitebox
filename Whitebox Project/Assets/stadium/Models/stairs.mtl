@@ -1,0 +1,13 @@
+# Blender 4.3.0 MTL File: 'stadium.blend'
+# www.blender.org
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ph096820/Downloads/wood_cabinet_worn_long_4k.blend/textures/wood_cabinet_worn_long_diff_4k.jpg
+map_Ns C:/Users/ph096820/Downloads/wood_cabinet_worn_long_4k.blend/textures/wood_cabinet_worn_long_rough_4k.exr
+map_Bump -bm 1.000000 C:/Users/ph096820/Downloads/wood_cabinet_worn_long_4k.blend/textures/wood_cabinet_worn_long_nor_gl_4k.exr
