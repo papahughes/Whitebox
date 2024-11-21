@@ -1,0 +1,13 @@
+# Blender 4.3.0 MTL File: 'stadium.blend'
+# www.blender.org
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ph096820/Downloads/marble_mosaic_tiles_4k.blend/textures/marble_mosaic_tiles_diff_4k.jpg
+map_Bump -bm 10.000000 C:/Users/ph096820/Downloads/marble_mosaic_tiles_4k.blend/textures/marble_mosaic_tiles_nor_gl_4k.exr
