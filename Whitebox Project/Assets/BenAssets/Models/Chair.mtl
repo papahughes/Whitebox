@@ -1,0 +1,22 @@
+# Blender 4.3.0 MTL File: 'PokemansThingy.blend'
+# www.blender.org
+
+newmtl ChairLegs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/bk322621/Downloads/qubodup-light_wood.png
+
+newmtl SeatLeather
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/bk322621/Downloads/leather_red_03_2k.blend/textures/leather_red_03_coll1_2k.png
